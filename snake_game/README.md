@@ -1,1 +1,1 @@
-classic snake gme utilizing Python and Tkinter GUI
+classic snake game utilizing Python and Tkinter GUI
