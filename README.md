@@ -1,2 +1,2 @@
-# games_with_tkinter_gui
+# python_games
  
